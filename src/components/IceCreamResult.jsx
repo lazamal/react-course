@@ -1,4 +1,4 @@
-export const IceCreamResult = ({ cupOrCone, tastes }) => {
-  console.log(cupOrCone, tastes);
+export const IceCreamResult = ({ cupOrCone }) => {
+  console.log(cupOrCone);
   return <h3> הגלידה שלי</h3>;
 };
